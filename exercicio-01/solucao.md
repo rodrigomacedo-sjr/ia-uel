@@ -2,6 +2,7 @@
 Importar csv
 
 Filtrar apenas cidades parana brasil
+    https://www.youtube.com/watch?v=aV50X8oH83o
 
 Selecionar aleatoriamente 2 a 6 cidades vizinhas
 
